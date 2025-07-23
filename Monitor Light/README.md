@@ -2,7 +2,7 @@
 
 ![A rendering of the 3D Model](images/Render.png)
 
-The cheap ball socket mount came with my desk lamp broke so I created one that attaches to the top of my monitor using a command strip.
+The ball socket mount came with my desk lamp broke so I created one that attaches to the top of my monitor using a command strip.
 
 ![A photo of the mount attached to a monitor](images/Mount.png)
 
